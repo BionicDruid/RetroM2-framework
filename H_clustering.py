@@ -95,3 +95,4 @@ print(X.describe().transpose())
 #But with complete linkage we can get the smallest jumps, keeping the qualityt of the movies more consistent.
 
 #This are just a few of the examples of information we can obtain by reading and examining the dendrograms.
+#If you wish to see the dendrograms, you can check the images in the same folder as this file, or add plt.show() at the end of the each linkage version of the graph_dendrogram function.
